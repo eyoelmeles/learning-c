@@ -1,7 +1,4 @@
-# Learning C
+# SQRTMINSUONE
 
-Learning c by doing programming challenges, making scripts to automate processes and by writting embedded system codes
-
-Books i used
-
-- The C Programming Language by Brian Kernighan and Dennis Ritchie
+- ወተት
+  SpreadSheet Engine to maninpulate the CSV files
