@@ -1,4 +1,4 @@
-# SQRTMINSUONE
+# SQRTMINUSONE
 
 ## Getting started
 
